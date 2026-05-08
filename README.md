@@ -10,4 +10,4 @@
 <br>
 
 ## Stats
-[Top Languages](https://gitmystat.vercel.app/top?theme=dino&username=Sharkfin07&layout=bar)
+![Top Languages](https://gitmystat.vercel.app/top?theme=dino&username=Sharkfin07&layout=bar)
